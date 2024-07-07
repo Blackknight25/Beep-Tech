@@ -1,3 +1,15 @@
+# Technical Assessment for Beep Internship
+
+This project include an Asynchronous and Synchronous Search Function.
+Language used: Typescript
+
+## Extra Features
+
+Submit Button: Shows failure message when input is null onSubmit, success if option(s) is/are selected.
+
+# Author of Project
+Melanie Choi (both "collaborators" of this repository are accounts of mine- personal and school). Please feel free to browse my other projects!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
