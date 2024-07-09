@@ -1,5 +1,4 @@
-# Technical Assessment for Beep Internship
-
+# Search Function
 This project include an Asynchronous and Synchronous Search Function.
 Language used: Typescript
 
