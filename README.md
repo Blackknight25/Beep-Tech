@@ -1,13 +1,16 @@
-# Search Function
-This project include an Asynchronous and Synchronous Search Function.
-Language used: Typescript
+# React Web Application Projects
+Interesting projects created with React.js, HTML & CSS
 
-## Extra Features
+## Projects
 
-Submit Button: Shows failure message when input is null onSubmit, success if option(s) is/are selected.
+### 1. Project Name: Async/Sync Search
+- **Description**: A simple web application that performs both synchronous and asynchronous searching.
+
+### 2. Project Name: Currency Swap Page
+- **Description**: A  web application that performs conversion of currency, and allows viewing of wallet.
 
 # Author of Project
-Melanie Choi (both "collaborators" of this repository are accounts of mine- personal and school). Please feel free to browse my other projects!
+Melanie Choi. Please feel free to browse my other projects!
 
 # Getting Started with Create React App
 
